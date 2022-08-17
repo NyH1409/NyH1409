@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ny Hasina</h1>
-<h3 align="center">Computer Science Student at HEI.</h3>
+<h3 align="center">IT Student at HEI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nyh1409&label=Profile%20views&color=0e75b6&style=flat" alt="nyh1409" /> </p>
 
