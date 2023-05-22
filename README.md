@@ -7,6 +7,8 @@
 
 - 📫 How to reach me **hei.nyhasina@gmail.com**
 
+<a href="https://app.daily.dev/nyhasina"><img src="https://api.daily.dev/devcards/96d76d668e33489f9efe94913d902861.png?r=sm8" width="400" alt="VAGNO Ny Hasina Marolahy's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ny-hasina-marolahy-vagno-7a34b6227/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ny-hasina-marolahy-vagno-7a34b6227/" height="30" width="40" /></a>
